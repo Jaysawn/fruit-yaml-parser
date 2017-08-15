@@ -1,0 +1,13 @@
+Crate:
+ID: 1
+Box:
+  Id: 2
+  Apples: 3
+  Oranges: 4
+
+Crate:
+ID: 9
+Box:
+  Id: 8
+  Apples: 7
+  Oranges: 6
