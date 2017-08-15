@@ -33,7 +33,7 @@ func main() {
         log.Fatalf("yamlFile marshal error: %v", err)
     }
 
-    fmt.Println("Crate Id: ", crate.Id)
+    fmt.Println("Crate Id:", crate.Id)
     fmt.Println("Box Id:", crate.Box.Id)
     fmt.Println("Box Apple Count", crate.Box.Apples)
     fmt.Println("Box Orange Count:", crate.Box.Oranges)
